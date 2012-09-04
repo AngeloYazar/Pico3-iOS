@@ -1,0 +1,66 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Pico.cs" caret="113" fromTop="0" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:MouseOrbit.cs" caret="3430" fromTop="21" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="0" fromTop="0" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="8898" fromTop="33" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Pico.cs" caret="883" fromTop="20" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="199" fromTop="9" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Pico.cs" caret="146" fromTop="8" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="722" fromTop="29" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="3197" fromTop="19" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Pico.cs" caret="146" fromTop="4" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Pico.cs" caret="37" fromTop="2" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Pico.cs" caret="113" fromTop="6" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="4737" fromTop="9" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="8053" fromTop="19" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="11024" fromTop="18" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="11941" fromTop="8" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="13500" fromTop="22" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="14741" fromTop="20" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:MouseOrbit.cs" caret="178" fromTop="7" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:MouseOrbit.cs" caret="1710" fromTop="20" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="1011" fromTop="18" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="886" fromTop="18" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:MouseOrbit.cs" caret="3430" fromTop="15" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="3890" fromTop="22" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="4846" fromTop="22" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="9055" fromTop="16" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="1846" fromTop="29" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="2276" fromTop="21" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="4427" fromTop="16" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="4067" fromTop="11" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="10432" fromTop="16" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="2808" fromTop="17" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Main.cs" caret="3327" fromTop="28" />
+      <File id="B070409A-7282-197B-E839-ECB49E23437D/d:Assets/d:Scripts/f:Placement.cs" caret="1584" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Action`0" priority="1" />
+      <Item value="AbsorbedEnergy" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

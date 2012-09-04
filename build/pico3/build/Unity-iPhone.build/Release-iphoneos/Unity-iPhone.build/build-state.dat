@@ -1,0 +1,1268 @@
+TUnity-iPhone
+v7
+r0
+t326957194.175440
+cCheck dependencies
+cCpResource build/pico3.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Info.plist" Info.plist
+cCompileXIB "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/MainWindow.xib"
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default.png" Default.png
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon.png" Icon.png
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Portrait.png" Default-Portrait.png
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Landscape.png" Default-Landscape.png
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon-iPad.png" Icon-iPad.png
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default@2x.png" Default@2x.png
+cCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon@2x.png" Icon@2x.png
+cPhaseScriptExecution "Run Script" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh"
+cProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-aizmutzjqtemnjfxsxjnugulomso/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-fdbulsvhgfdoupgaezdruvicamsk/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv7 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/AppController.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/iPhone_target2AppDelegate.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/main.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterClasses.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp" normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Boo.Lang.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Mono.Security.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.Core.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/UnityEngine.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/XInputDotNetPure.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/mscorlib.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterMonoModules.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp" normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm" normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm" normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp" normal armv7 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Boo.Lang.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.Core.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/XInputDotNetPure.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+cCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp" normal armv7 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3" normal armv7
+cLd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3" normal armv6
+cCreateUniversalBinary "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/pico3" normal "armv6 armv7"
+cProcessProductPackaging "/Users/angeloyazar/Library/MobileDevice/Provisioning Profiles/CD47B832-34AD-486E-B0C5-3672507B6BB6.mobileprovision" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/embedded.mobileprovision"
+cTouch "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent"
+cCodeSign "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC2483E000000000038CF50
+t1287800894
+s3723088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC110BE000000000000094F
+t1287721150
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC110BE0000000000000A61
+t1287721150
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC110BE0000000000003C4A
+t1287721150
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004CC110BE00000000000026AA
+t1287721150
+s9898
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/mach/mach.h
+c000000004CBFAB710000000000001057
+t1287629681
+s4183
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/mach/mach_host.h
+c000000004CBFAB720000000000004F74
+t1287629682
+s20340
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/mach/mach_time.h
+c000000004CBFACE10000000000000746
+t1287630049
+s1862
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libiconv.2.dylib
+c000000004CC1056200000000001FB100
+t1287718242
+s2076928
+
+N/Users/angeloyazar/Library/MobileDevice/Provisioning Profiles/CD47B832-34AD-486E-B0C5-3672507B6BB6.mobileprovision
+c000000004D9568AD000000000000224C
+t1301637293
+s8780
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.h
+c000000004D6D0D80000000000000014D
+t1298992512
+s333
+i<UIKit/UIKit.h>
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm
+c000000004DCCC0E900000000000098E1
+t1305264361
+s39137
+i"AppController.h"
+i<mach/mach_time.h>
+i<QuartzCore/QuartzCore.h>
+i<UIKit/UIKit.h>
+i<Availability.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/ES2/glext.h>
+i<mach/mach.h>
+i<mach/mach_host.h>
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/MainWindow.xib
+c000000004D6D0D800000000000001DC6
+t1298992512
+s7622
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp
+c000000004D6D0D7E0000000000000097
+t1298992510
+s151
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.h
+c000000004D6D0D8000000000000000C0
+t1298992512
+s192
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.h
+c000000004D6D0D80000000000000017B
+t1298992512
+s379
+i<UIKit/UIKit.h>
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m
+c000000004D6D0D7E00000000000001E6
+t1298992510
+s486
+i"iPhone_target2AppDelegate.h"
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch
+c000000004D6D0D80000000000000018D
+t1298992512
+s397
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm
+c000000004D6D0D8000000000000001A9
+t1298992512
+s425
+i<UIKit/UIKit.h>
+i"RegisterClasses.h"
+i"RegisterMonoModules.h"
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default-Landscape.png
+c000000004DCCC03A000000000000EA57
+t1305264186
+s59991
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default-Portrait.png
+c000000004DCCC03A000000000000E5B8
+t1305264186
+s58808
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default.png
+c000000004DCCC03A0000000000007A8D
+t1305264186
+s31373
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default@2x.png
+c000000004D6D0D7E000000000001832A
+t1298992510
+s99114
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon-iPad.png
+c000000004DCCC03A0000000000000552
+t1305264186
+s1362
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon.png
+c000000004DCCC03A00000000000003ED
+t1305264186
+s1005
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon@2x.png
+c000000004DCCC03A0000000000000990
+t1305264186
+s2448
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s
+c000000004DCCC02C00000000000146B9
+t1305264172
+s83641
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s
+c000000004DCCC02C00000000000ED86E
+t1305264172
+s972910
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s
+c000000004DCCC02C00000000000097E1
+t1305264172
+s38881
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s
+c000000004DCCC02C00000000000092E6
+t1305264172
+s37606
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s
+c000000004DCCC02D00000000000E94E0
+t1305264173
+s955616
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s
+c000000004DCCC02D0000000000259062
+t1305264173
+s2461794
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp
+c000000004DCCC03500000000000312FE
+t1305264181
+s201470
+i"RegisterMonoModules.h"
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.h
+c000000004D6D0D8000000000000000B5
+t1298992512
+s181
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s
+c000000004DCCC02F000000000035C16A
+t1305264175
+s3522922
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s
+c000000004DCCC03000000000007C0F84
+t1305264176
+s8130436
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s
+c000000004DCCC03100000000004C1858
+t1305264177
+s4986968
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s
+c000000004DCCC032000000000000EFC5
+t1305264178
+s61381
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/libiPhone-lib.a
+c000000004D6E0BAC0000000002B74880
+t1299057580
+s45566080
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s
+c000000004DCCC03500000000011A80B0
+t1305264181
+s18514096
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/AppController.o
+t1305264390
+s25184
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp-firstpass.dll.o
+t1305264195
+s37952
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp.dll.o
+t1305264195
+s424088
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript-firstpass.dll.o
+t1305264195
+s19060
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript.dll.o
+t1305264195
+s18256
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Boo.Lang.dll.o
+t1305264195
+s445860
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Mono.Security.dll.o
+t1305264195
+s1076956
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterClasses.o
+t1305264195
+s492
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterMonoModules.o
+t1305264196
+s230688
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.Core.dll.o
+t1305264195
+s1634408
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.dll.o
+t1305264196
+s3673836
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/UnityEngine.dll.o
+t1305264196
+s2253928
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/XInputDotNetPure.dll.o
+t1305264196
+s28072
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/iPhone_target2AppDelegate.o
+t1305264194
+s7172
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/main.o
+t1305264195
+s2804
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/mscorlib.dll.o
+t1305264198
+s8029028
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3
+t1305264392
+s15541552
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3.LinkFileList
+c000000004DCCC03E00000000000009EB
+t1305264190
+s2539
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o
+t1305264390
+s25080
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp-firstpass.dll.o
+t1305264197
+s37952
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o
+t1305264197
+s424088
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript-firstpass.dll.o
+t1305264197
+s19060
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript.dll.o
+t1305264197
+s18256
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Boo.Lang.dll.o
+t1305264197
+s445860
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o
+t1305264197
+s1076956
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o
+t1305264197
+s492
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o
+t1305264202
+s230688
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.Core.dll.o
+t1305264198
+s1634408
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o
+t1305264199
+s3673836
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o
+t1305264199
+s2253928
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/XInputDotNetPure.dll.o
+t1305264199
+s28072
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o
+t1305264197
+s7172
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o
+t1305264197
+s2804
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o
+t1305264201
+s8029028
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3
+t1305264392
+s15668112
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3.LinkFileList
+c000000004DCCC03E00000000000009EB
+t1305264190
+s2539
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh
+c000000004DCCC03E0000000000000082
+t1305264190
+s130
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent
+t1305264205
+s408
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app
+t1305264394
+s612
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Landscape.png
+t1305264191
+s66728
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Portrait.png
+t1305264191
+s65591
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default.png
+t1305264190
+s38599
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default@2x.png
+t1305264192
+s123950
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon-iPad.png
+t1305264191
+s1312
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon.png
+t1305264190
+s958
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon@2x.png
+t1305264192
+s2400
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Info.plist
+t1305264190
+s1219
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/MainWindow.nib
+t1305264192
+s1507
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/PkgInfo
+t1305264190
+s8
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/ResourceRules.plist
+t1305264190
+s485
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/embedded.mobileprovision
+t1305264205
+s8780
+
+N/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/pico3
+t1305264393
+s31380832
+
+N/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-aizmutzjqtemnjfxsxjnugulomso/iPhone_target_Prefix.pch.gch
+t1305264193
+s7984856
+
+N/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch.gch
+t1305264194
+s1487076
+
+N/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch.gch
+t1305264193
+s8816232
+
+N/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch.gch
+t1305264194
+s9279080
+
+N/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-fdbulsvhgfdoupgaezdruvicamsk/iPhone_target_Prefix.pch.gch
+t1305264194
+s8443608
+
+N/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch.gch
+t1305264194
+s1929444
+
+NInfo.plist
+c000000004DCCC035000000000000060A
+t1305264181
+s1546
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326957189#326957189#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCodeSign "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"
+s326957193.070110
+e326957194.175373
+r1
+xCodeSign
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app
+lSLF07#2@24"CodeSign build/pico3.app326957193#326957194#0(0"0(0#0#71"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app8606811520#700"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Angelo Yazar (6Q66CX7X2V)" "--resource-rules=/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/ResourceRules.plist" --entitlements "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/AppController.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s326957189.930809
+e326957190.208640
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/AppController.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm326957189#326957190#0(0"0(0#0#80"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm8609254560#2079"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/AppController.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.070245
+e326956995.093254
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp-firstpass.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s326956995#326956995#0(0"0(0#0#97"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s8608511968#1860"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp-firstpass.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.093344
+e326956995.232608
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s326956995#326956995#0(0"0(0#0#87"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s8608161792#1840"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-CSharp.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.232698
+e326956995.249083
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript-firstpass.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s326956995#326956995#0(0"0(0#0#102"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s8611047072#1870"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript-firstpass.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.249177
+e326956995.273089
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s326956995#326956995#0(0"0(0#0#92"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s8608872288#1850"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Assembly-UnityScript.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Boo.Lang.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.273172
+e326956995.394198
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Boo.Lang.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s326956995#326956995#0(0"0(0#0#80"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s8611081184#1826"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Boo.Lang.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Mono.Security.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.321770
+e326956995.624387
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Mono.Security.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s326956995#326956995#0(0"0(0#0#85"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s8607993920#1836"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/Mono.Security.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterClasses.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp" normal armv6 c++ com.apple.compilers.gcc.4_2
+s326956995.048276
+e326956995.070158
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterClasses.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp326956995#326956995#0(0"0(0#0#83"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp8608952064#2053"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterClasses.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterMonoModules.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp" normal armv6 c++ com.apple.compilers.gcc.4_2
+s326956996.600583
+e326956996.929523
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterMonoModules.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp326956996#326956996#0(0"0(0#0#89"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp8608147008#2063"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/RegisterMonoModules.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.Core.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.394294
+e326956995.798765
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.Core.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s326956995#326956995#0(0"0(0#0#83"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s8609313216#1832"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.Core.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.624499
+e326956996.600492
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s326956995#326956996#0(0"0(0#0#78"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s8608895648#1822"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/System.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/UnityEngine.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956995.798851
+e326956996.290011
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/UnityEngine.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s326956995#326956996#0(0"0(0#0#83"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s8611212864#1832"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/UnityEngine.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/XInputDotNetPure.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956996.290099
+e326956996.310602
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/XInputDotNetPure.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s326956996#326956996#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s8609540384#1842"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/XInputDotNetPure.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/iPhone_target2AppDelegate.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s326956994.799106
+e326956994.985100
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/iPhone_target2AppDelegate.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m326956994#326956994#0(0"0(0#0#91"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m8604329568#2055"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-aizmutzjqtemnjfxsxjnugulomso/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/iPhone_target2AppDelegate.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/main.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s326956994.985326
+e326956995.048182
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/main.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm326956994#326956995#0(0"0(0#0#71"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm8607990912#2061"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/mscorlib.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s" normal armv6 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956996.310698
+e326956998.779168
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/mscorlib.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s
+xnormal
+xarmv6
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s326956996#326956998#0(0"0(0#0#80"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s8608665184#1826"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/mscorlib.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm" normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s326957189.932728
+e326957190.196384
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm326957189#326957190#0(0"0(0#0#80"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm8605061952#2079"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/AppController.mm" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.345080
+e326956997.379215
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp-firstpass.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s326956997#326956997#0(0"0(0#0#97"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s8608134624#1860"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp-firstpass.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp-firstpass.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.379305
+e326956997.466167
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s326956997#326956997#0(0"0(0#0#87"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s8609645248#1840"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-CSharp.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript-firstpass.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.466261
+e326956997.490165
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript-firstpass.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s326956997#326956997#0(0"0(0#0#102"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s8608720064#1870"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript-firstpass.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript-firstpass.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.490252
+e326956997.512941
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s326956997#326956997#0(0"0(0#0#92"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s8608346304#1850"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Assembly-UnityScript.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-UnityScript.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Boo.Lang.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.513186
+e326956997.615028
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Boo.Lang.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s326956997#326956997#0(0"0(0#0#80"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s8609675776#1826"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Boo.Lang.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Boo.Lang.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.615118
+e326956997.834020
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s326956997#326956997#0(0"0(0#0#85"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s8608509664#1836"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/Mono.Security.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp" normal armv7 c++ com.apple.compilers.gcc.4_2
+s326956997.319430
+e326956997.344991
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp326956997#326956997#0(0"0(0#0#83"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp8608400768#2053"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/RegisterClasses.cpp" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp" normal armv7 c++ com.apple.compilers.gcc.4_2
+s326957001.926731
+e326957002.185840
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp326957001#326957002#0(0"0(0#0#89"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp8606673408#2063"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/RegisterMonoModules.cpp" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.Core.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956997.834104
+e326956998.158125
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.Core.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s326956997#326956998#0(0"0(0#0#83"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s8608232608#1832"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.Core.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.Core.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956998.158211
+e326956999.130939
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s326956998#326956999#0(0"0(0#0#78"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s8605820224#1822"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/System.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956999.131182
+e326956999.922546
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s326956999#326956999#0(0"0(0#0#83"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s8598666880#1832"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/UnityEngine.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/XInputDotNetPure.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956999.922633
+e326956999.942876
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/XInputDotNetPure.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s326956999#326956999#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s8608580352#1842"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/XInputDotNetPure.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/XInputDotNetPure.dll.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s326956997.220439
+e326956997.279661
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m326956997#326956997#0(0"0(0#0#91"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m8609433024#2055"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-fdbulsvhgfdoupgaezdruvicamsk/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target2AppDelegate.m" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm" normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s326956997.279751
+e326956997.319342
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm326956997#326956997#0(0"0(0#0#71"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm8608692320#2061"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -include /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/main.mm" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o"0#
+
+CCompileC build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s" normal armv7 assembler-with-cpp com.apple.compilers.gcc.4_2
+s326956999.942967
+e326957002.076760
+r1
+xCompileC
+xbuild/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s326956999#326957002#0(0"0(0#0#80"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s8608116448#1826"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x assembler-with-cpp -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries/mscorlib.dll.s" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o"0#
+
+CCompileXIB "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/MainWindow.xib"
+s326956990.529553
+e326956992.080420
+r1
+xCompileXIB
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/MainWindow.xib
+lSLF07#2@33"CompileXIB Classes/MainWindow.xib326956990#326956992#0(0"0(0#0#78"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/MainWindow.xib8611738272#590"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/MainWindow.nib" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Landscape.png" Default-Landscape.png
+s326956991.281260
+e326956991.819525
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@71"CopyPNGFile build/pico3.app/Default-Landscape.png Default-Landscape.png326956991#326956991#0(0"0(0#0#77"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default-Landscape.png8608701888#622"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default-Landscape.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Landscape.png"0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Portrait.png" Default-Portrait.png
+s326956990.714605
+e326956991.281152
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@69"CopyPNGFile build/pico3.app/Default-Portrait.png Default-Portrait.png326956990#326956991#0(0"0(0#0#76"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default-Portrait.png8609687520#620"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default-Portrait.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default-Portrait.png"0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default.png" Default.png
+s326956990.530155
+e326956990.688910
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default.png
+xDefault.png
+lSLF07#2@51"CopyPNGFile build/pico3.app/Default.png Default.png326956990#326956990#0(0"0(0#0#67"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default.png8611630016#602"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default.png"0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default@2x.png" Default@2x.png
+s326956991.852960
+e326956992.254593
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@57"CopyPNGFile build/pico3.app/Default@2x.png Default@2x.png326956991#326956992#0(0"0(0#0#70"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default@2x.png8608475296#608"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Default@2x.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Default@2x.png"0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon-iPad.png" Icon-iPad.png
+s326956991.819611
+e326956991.852879
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon-iPad.png
+xIcon-iPad.png
+lSLF07#2@55"CopyPNGFile build/pico3.app/Icon-iPad.png Icon-iPad.png326956991#326956991#0(0"0(0#0#69"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon-iPad.png8608541760#606"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon-iPad.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon-iPad.png"0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon.png" Icon.png
+s326956990.688988
+e326956990.714524
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon.png
+xIcon.png
+lSLF07#2@45"CopyPNGFile build/pico3.app/Icon.png Icon.png326956990#326956990#0(0"0(0#0#64"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon.png8611077504#596"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon.png"0#
+
+CCopyPNGFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon@2x.png" Icon@2x.png
+s326956992.080549
+e326956992.116366
+r1
+xCopyPNGFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@51"CopyPNGFile build/pico3.app/Icon@2x.png Icon@2x.png326956992#326956992#0(0"0(0#0#67"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon@2x.png8608345024#602"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Icon@2x.png" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Icon@2x.png"0#
+
+CCpResource build/pico3.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s326956990.495712
+e326956990.529468
+r1
+xCpResource
+xbuild/pico3.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist326956990#326956990#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist4913266056747185152#536"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"0#
+
+CCreateUniversalBinary "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/pico3" normal "armv6 armv7"
+s326957192.541570
+e326957193.067615
+r1
+xCreateUniversalBinary
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/pico3
+xnormal
+xarmv6 armv7
+lSLF07#2@64"CreateUniversalBinary build/pico3.app/pico3 normal "armv6 armv7"326957192#326957193#0(0"0(0#0#67"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/armv6 armv78607714656#595"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3" -output "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/pico3"0#
+
+CLd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3" normal armv6
+s326957190.208721
+e326957192.541482
+r1
+xLd
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3
+xnormal
+xarmv6
+lSLF07#2@148"Link /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3326957190#326957192#0(0"0(0#0#0"8607672096#1266"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-L/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3" "-L/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" -filelist "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3.LinkFileList" -dead_strip -Wl,-S,-x -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework OpenAL -liconv.2 -liPhone-lib -framework AudioToolbox -framework CFNetwork -framework MediaPlayer -framework CoreLocation -framework SystemConfiguration -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3"0#
+
+CLd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3" normal armv7
+s326957190.197456
+e326957192.334343
+r1
+xLd
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3
+xnormal
+xarmv7
+lSLF07#2@148"Link /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3326957190#326957192#0(0"0(0#0#0"8600353856#1266"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-L/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3" "-L/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" -filelist "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3.LinkFileList" -dead_strip -Wl,-S,-x -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework OpenAL -liconv.2 -liPhone-lib -framework AudioToolbox -framework CFNetwork -framework MediaPlayer -framework CoreLocation -framework SystemConfiguration -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3"0#
+
+CPhaseScriptExecution "Run Script" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh"
+s326957189.818692
+e326957189.930133
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh
+lSLF07#2@36"Run custom shell script 'Run Script'326957189#326957189#0(0"0(0#0#0"7236274654156841984#18700"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER angeloyazar    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv6 armv7"    setenv ARCHS_STANDARD_32_64_BIT "armv6 armv7"    setenv ARCHS_STANDARD_32_BIT "armv6 armv7"    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv BUILD_ROOT "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv BUILD_STYLE Release    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv CACHE_ROOT /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv CONFIGURATION_TEMP_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos"    setenv CONTENTS_FOLDER_PATH pico3.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH pico3.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Unity-iPhone.dst    setenv DWARF_DSYM_FILE_NAME pico3.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH pico3.app/Executables    setenv EXECUTABLE_FOLDER_PATH pico3.app    setenv EXECUTABLE_NAME pico3    setenv EXECUTABLE_PATH pico3.app/pico3    setenv FILE_LIST "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH pico3.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME pico3.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_ENABLE_CPP_EXCEPTIONS NO    setenv GCC_ENABLE_CPP_RTTI NO    setenv GCC_ENABLE_OBJC_EXCEPTIONS NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Classes/iPhone_target_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_USE_INDIRECT_FUNCTION_CALLS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH pico3.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH pico3.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/Unity-iPhone.dst/Users/angeloyazar/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER angeloyazar    setenv INSTALL_PATH /Users/angeloyazar/Applications    setenv INSTALL_ROOT /tmp/Unity-iPhone.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH pico3.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-LinkMap-normal-armv7.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build\"  \"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3\" \"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Libraries\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv6/pico3.LinkFileList"    setenv LINK_FILE_LIST_normal_armv7 "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal/armv7/pico3.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH pico3.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_VERSION_ACTUAL 1067    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0607    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Objects-normal"    setenv OBJROOT "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -Wl,-S,-x    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH pico3.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS "objective-c c++ objective-c++"    setenv PHONEGAPLIB /Users/angeloyazar/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/PkgInfo"    setenv PKGINFO_PATH pico3.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH pico3.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH pico3.app/PrivateHeaders    setenv PRODUCT_NAME pico3    setenv PRODUCT_SETTINGS_PATH "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Unity-iPhone    setenv PROJECT_DERIVED_FILE_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/DerivedSources"    setenv PROJECT_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PROJECT_FILE_PATH "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Unity-iPhone.xcodeproj"    setenv PROJECT_NAME Unity-iPhone    setenv PROJECT_TEMP_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build"    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH pico3.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH pico3.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk    setenv SDK_NAME iphoneos4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH pico3.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH pico3.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv SRCROOT "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SYMBOL_REPOSITORY_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/SymbolRepositories"    setenv SYMROOT "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME Unity-iPhone    setenv TARGET_BUILD_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv TARGET_NAME Unity-iPhone    setenv TARGET_TEMP_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build"    setenv TEMP_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build"    setenv TEMP_FILES_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build"    setenv TEMP_FILE_DIR "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build"    setenv TEMP_ROOT "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH pico3.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER angeloyazar    setenv USER_APPS_DIR /Users/angeloyazar/Applications    setenv USER_LIBRARY_DIR /Users/angeloyazar/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH pico3.app/version.plist    setenv VERSION_INFO_BUILDER angeloyazar    setenv VERSION_INFO_FILE pico3_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:pico3  PROJECT:Unity-iPhone-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME pico3.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh\""0#
+
+CProcessInfoPlistFile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Info.plist" Info.plist
+s326956990.497466
+e326956990.502005
+r1
+xProcessInfoPlistFile
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist326956990#326956990#0(0"0(0#0#66"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Info.plist8607706720#579"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/ResourceRules.plist" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/Info.plist"0#
+
+CProcessPCH /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-aizmutzjqtemnjfxsxjnugulomso/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s326956992.435764
+e326956993.954904
+r1
+xProcessPCH
+x/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-aizmutzjqtemnjfxsxjnugulomso/iPhone_target_Prefix.pch.gch
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Classes/iPhone_target_Prefix.pch326956992#326956993#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch8608144832#1886"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch" -o /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-aizmutzjqtemnjfxsxjnugulomso/iPhone_target_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-fdbulsvhgfdoupgaezdruvicamsk/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s326956994.206821
+e326956994.663618
+r1
+xProcessPCH
+x/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-fdbulsvhgfdoupgaezdruvicamsk/iPhone_target_Prefix.pch.gch
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Classes/iPhone_target_Prefix.pch326956994#326956994#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch8609361888#1886"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch" -o /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-fdbulsvhgfdoupgaezdruvicamsk/iPhone_target_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+s326956993.940552
+e326956994.206725
+r1
+xProcessPCH++
+x/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch.gch
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Classes/iPhone_target_Prefix.pch326956993#326956994#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch8603650848#1902"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch" -o /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-dhxirauklmdcbsgqoqmaflbjmmmr/iPhone_target_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s326956992.434994
+e326956993.940198
+r1
+xProcessPCH++
+x/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch.gch
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Classes/iPhone_target_Prefix.pch326956992#326956993#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch8608702592#1933"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv6" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch" -o /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-diipgpywxdctltgvprvnldeirrqx/iPhone_target_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s326956993.955010
+e326956994.797946
+r1
+xProcessPCH++
+x/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch.gch
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Classes/iPhone_target_Prefix.pch326956993#326956994#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch8611645120#1933"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fno-objc-exceptions -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch" -o /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-edzvezcbjduqjmblgxocrhszrjoa/iPhone_target_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch.gch Classes/iPhone_target_Prefix.pch normal armv7 c++ com.apple.compilers.gcc.4_2
+s326956994.663711
+e326956994.782872
+r1
+xProcessPCH++
+x/var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch.gch
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Classes/iPhone_target_Prefix.pch326956994#326956994#0(0"0(0#0#88"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch8611433088#1902"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-generated-files.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-own-target-headers.hmap" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-all-target-headers.hmap" -iquote "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3-project-headers.hmap" "-F/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/include" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources/armv7" "-I/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/DerivedSources" -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/Classes/iPhone_target_Prefix.pch" -o /var/folders/5j/5j0GgxbfGAOkB30uK9iQi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_target_Prefix-gnyvfopeowmlxgewgqchtmvpogbb/iPhone_target_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/angeloyazar/Library/MobileDevice/Provisioning Profiles/CD47B832-34AD-486E-B0C5-3672507B6BB6.mobileprovision" "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/embedded.mobileprovision"
+s326957005.495903
+e326957005.507840
+r1
+xProcessProductPackaging
+x/Users/angeloyazar/Library/MobileDevice/Provisioning Profiles/CD47B832-34AD-486E-B0C5-3672507B6BB6.mobileprovision
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/embedded.mobileprovision
+lSLF07#2@181"ProcessProductPackaging "/Users/angeloyazar/Library/MobileDevice/Provisioning Profiles/CD47B832-34AD-486E-B0C5-3672507B6BB6.mobileprovision" build/pico3.app/embedded.mobileprovision326957005#326957005#0(0"0(0#0#96"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/embedded.mobileprovision8607747392#450"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/angeloyazar/Library/MobileDevice/Provisioning Profiles/CD47B832-34AD-486E-B0C5-3672507B6BB6.mobileprovision" -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent"
+s326957005.510785
+e326957005.540438
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent
+lSLF07#2@185"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent326957005#326957005#0(0"0(0#0#128"/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent8607268032#480"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/Unity-iPhone.build/Release-iphoneos/Unity-iPhone.build/pico3.xcent"0#
+
+CTouch "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"
+s326957193.067785
+e326957193.069992
+r1
+xTouch
+x/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app
+lSLF07#2@77"Touch /Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app326957193#326957193#0(0"0(0#0#0"8607099872#285"    cd "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/angeloyazar/Unity Projects/IOS/Pico3/build/pico3/build/pico3.app"0#
+
